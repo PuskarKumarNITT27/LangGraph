@@ -4,3 +4,4 @@ python-dotenv
 langchain_huggingface
 langchain-google-genai
 google-generativeai
+streamlit
